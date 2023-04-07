@@ -28,5 +28,6 @@ python3  main.py
 ```
 **There is, you have just hosted your bot on your personal machine!**
 <summary>Tips</summary>
+<details>
 If you upload the bot to a hosting service, don't forget to create the .env file with your: DISCORD_TOKEN and BOT_ID
 </details>
