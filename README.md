@@ -10,7 +10,7 @@
 ```
 # **How to add the bot?**
 ```
-https://discord.com/api/oauth2/authorize?client_id=1093896701254848523&permissions=8&scope=bot
+https://bit.ly/AddJukeBot
 ```
 **Then click authorize for JukeBot to run perfectly on your server.**
 #Fine, but I want to host my bot on my personal machine
