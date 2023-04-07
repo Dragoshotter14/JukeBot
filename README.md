@@ -1,5 +1,5 @@
 # **Itroducing**
-## **JukeBot is open source, in case the project dies, you can host the bot yourself to use on your server!**
+## **JukeBot is open source Music Bot, in case the project dies, you can host the bot yourself to use on your server!**
 # **Commands**
 **Commands used by JukeBot:**
 ```
