@@ -22,7 +22,7 @@ pip install discord.py discord.py[voice] python-dotenv PyNaCl https://github.com
 ```
 pip install requirements.txt
 ```
-**Now run main.py:**
+**Now, run main.py:**
 ```
 python3  main.py
 ```
