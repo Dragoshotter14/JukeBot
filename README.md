@@ -26,4 +26,4 @@ pip install requirements.txt
 ```
 python3  main.py
 ```
-**There, you have just hosted your bot on your personal machine!**
+**There is, you have just hosted your bot on your personal machine!**
