@@ -1,6 +1,7 @@
 # **Itroducing**
 ## **JukeBot is open source, in case the project dies, you can host the bot yourself to use on your server!**
 # **Commands**
+**Commands used by JukeBot:**
 ```
 /play This command is used to play songs, just type the name of the song that can be found on youtube
 /fila Used to view subsequent songs
