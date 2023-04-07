@@ -18,7 +18,7 @@ https://discord.com/api/oauth2/authorize?client_id=1093896701254848523&permissio
 ```
 pip install discord.py discord.py[voice] python-dotenv PyNaCl https://github.com/ytdl-org/youtube-dl/archive/refs/heads/master.zip ffmpeg
 ```
-**Or simply:*
+**Or simply:**
 ```
 pip install requirements.txt
 ```
