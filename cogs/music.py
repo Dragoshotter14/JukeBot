@@ -11,7 +11,7 @@ class TutorialButton(discord.ui.View):
         self.value = None
         self.timeout=600
 
-        botaourl = discord.ui.Button(label="Crie seu próprio Bot de Música",url="https://www.youtube.com/watch?v=f8AyaXH_8A4")
+        botaourl = discord.ui.Button(label="GitHub",url="https://github.com/Dragoshotter14/JukeBot")
         self.add_item(botaourl)
 
 class music(commands.Cog):
