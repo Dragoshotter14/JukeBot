@@ -5,7 +5,7 @@ from discord.ext import commands
 from youtube_dl import YoutubeDL
 
 
-class TutorialButton(discord.ui.View):
+class GitHub(discord.ui.View):
     def __init__(self):
         super().__init__()
         self.value = None
@@ -88,7 +88,7 @@ class music(commands.Cog):
             embedhelp.set_thumbnail(url=self.client.user.avatar.url)
         except:
             pass
-        await interaction.followup.send(embed=embedhelp,view=TutorialButton())
+        await interaction.followup.send(embed=embedhelp,view=GitHub())
 
 
     @app_commands.command(name="play",description="Toca uma música do YouTube.")
@@ -123,7 +123,7 @@ class music(commands.Cog):
                     colour= 32768,#green
                     description = f"Você adicionou a música **{song['title']}** à fila!"
                 )
-                await interaction.followup.send(embed=embedvc,view=TutorialButton())
+                await interaction.followup.send(embed=embedvc,view=GitHub())
                 self.music_queue.append([song, voice_channel])
                 
                 if self.is_playing == False:
