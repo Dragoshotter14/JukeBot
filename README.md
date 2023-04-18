@@ -13,7 +13,7 @@
 https://bit.ly/AddJukeBot
 ```
 **Then click authorize for JukeBot to run perfectly on your server.**
-#Fine, but I want to host my bot on my personal machine
+# Fine, but I want to host my bot on my personal machine
 **Commands to host it on your machine:**
 ```
 pip install discord.py discord.py[voice] python-dotenv PyNaCl https://github.com/ytdl-org/youtube-dl/archive/refs/heads/master.zip ffmpeg
