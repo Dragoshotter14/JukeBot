@@ -29,8 +29,8 @@ python3  main.py
 **There is, you have just hosted your bot on your personal machine!**
 
 # Upcoming updates:
-* Play any kind of media that exists on Twitch.
-* Audio x0.5, x1.5, x2 in any of the audio playback options.
+- [ ] Play any kind of media that exists on Twitch.
+- [ ] Audio x0.5, x1.5, x2 in any of the audio playback options.
 
 <details>
 <summary>Tips</summary>
